@@ -112,7 +112,7 @@ reproducibles.
 También he asesorado al resto del grupo en cuestiones estadísticas y 
 experimentales en la medida de lo posible. Me he encargado a su vez de la 
 compra y configuración de los distintos equipos de análisis de datos, y he sido
-responsable de la creación de la línea de bioinfórmatica en nuestro grupo.
+responsable de la creación de la línea de bioinformática en nuestro grupo.
 
 Actividades Anteriores
 ----------------------
@@ -214,7 +214,7 @@ Idiomas
 Español
 :	Nativo
 
-Ingles
+Inglés
 :	Nivel profesional
  
 Publicaciones en Revistas
