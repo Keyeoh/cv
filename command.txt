@@ -1,0 +1,1 @@
+~/tools/wkhtmltox/bin/wkhtmltopdf -p http://10.36.160.3:8080 -L 20 -R 20 cv-es.html cv-es.pdf
