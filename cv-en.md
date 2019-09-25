@@ -1,8 +1,9 @@
 ---
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     css: style.css
-  pdf_document: default
 ---
 ![](cv_border_100.png) Gustavo Fernandez Bayon
 =========================================
@@ -77,33 +78,41 @@ Current Position
 ----------------------------
 
 Job Title
-:   *Bioinformatician / Data Analyst*
+:   *Research Engineer*
 
-Department
-:   Universidad de Oviedo
+Company
+:   ArcelorMittal
 
 Start Date
-:   April 2nd, 2012
+:   March 15th, 2018
 
 Center
-:   IUOPA (Oncological University Institute - Principado de Asturias)
+:   Global R&D Aviles
 
 Group
-:   Cancer Epigenetics and Nanomedicine
+:   KiN - Business and Technoeconomics
 
-Research and development of computational and statistical methods for the study 
-of Cancer Epigenetics. Currently working on DNA Methylation microarrays and 
-ChIP-seq data analysis. R/Bioconductor, BioPython, MACS, MAQ, BowTie and a lot 
-of different and exciting stuff. I have also become quite aware of the problems 
-around the Reproducibility of data analysis projects, specially in Science, and 
-have put into practice several virtualization solutions, literate programming
-and continuous integration techniques in order to ensure that current results
-can be replicated by external independent reviewers. Additionally, I have been 
-helping fellow members of the lab by providing experimental design and
-statistical support for their data analysis projects.
+Data scientist. Commercial Digitalization. Research, development and deployment 
+of Machine Learning systems applied to different processes inside the company.
+Project Management.
 
 Previous Positions
 ----------------------
+
+2012 - 2018
+: Universidad de Oviedo
+
+*Bioinformatician / Data Analyst*. Research and development of computational and
+statistical methods for the study of Cancer Epigenetics. DNA Methylation 
+microarrays and ChIP-seq data analysis. R/Bioconductor, BioPython, 
+MACS, MAQ, BowTie and a lot of different and exciting stuff. I became 
+quite aware of the problems around the Reproducibility of data analysis 
+projects, specially in Science, and put into practice several 
+virtualization solutions, literate programming and continuous integration 
+techniques in order to ensure that previous results could be replicated by external 
+independent reviewers. Additionally, I helped fellow members of the 
+lab by providing experimental design and statistical support for 
+their data analysis projects.
 
 2011 - 2012 
 : Arcelor Mittal
@@ -171,7 +180,7 @@ Interests
  * Machine Learning.
  * Bioinformatics. Epigenomic Data Analysis.
  * Feature Relevancy Analysis.
- * Big Scale Data.
+ * Big Data.
  * Computer Vision.
  * Project Management.
  * Workflow/Pipeline design and implementation.
@@ -181,16 +190,13 @@ Technologies
 -----------
 
   * Programming Languages
-    * R, R/Bioconductor, RStudio, R/Markdown, Shiny
-    * Python, NumPy, SciPy
+    * R (R/Bioconductor, RStudio, R/Markdown, Shiny)
+    * Python (NumPy, SciPy, Pandas, PySpark)
     * C++, Boost.
     * C#
     * SQL
-  * Workflow Design
-    * Snakemake
-    * Common Workflow Language
-    * Galaxy
   * Machine Learning
+    * Scikit-learn
     * Caret
     * Spark MLlib
   * Computer Vision
@@ -230,8 +236,7 @@ PMCID: PMC4317171.
 Fernández AF, Fraga MF, Cardona-Gómez GP, Arboleda H, Arboleda GH. Liver X
 Receptor Agonist Modifies the DNA Methylation Profile of Synapse and
 Neurogenesis-Related Genes in the Triple Transgenic Mouse Model of Alzheimer's
-Disease. J Mol Neurosci. 2015 Nov 9. [Epub ahead of print] PubMed PMID:
-26553261.
+Disease. J Mol Neurosci. 2015 Nov 9.
 
 3.	Urdinguio RG, Bayón GF, Dmitrijeva M, Toraño EG, Bravo C, Fraga MF, Bassas L,
 Larriba S, Fernández AF. Aberrant DNA methylation patterns of spermatozoa in men
@@ -249,8 +254,7 @@ Fresno Forcelledo MF, Martínez-Camblor P, Mancikova V, Castelblanco E, Perez M,
 Marrón PI, Mendiola M, Hardisson D, Santisteban P, Riesco-Eizaguirre G,
 Matías-Guiu X, Carnero A, Robledo M, Delgado-Álvarez E, Menéndez-Torre E, Fraga
 MF. DNA methylation signatures identify biologically distinct thyroid cancer
-subtypes. J Clin Endocrinol Metab. 2013 Jul;98(7):2811-21. PubMed PMID:
-23666970.
+subtypes. J Clin Endocrinol Metab. 2013 Jul;98(7):2811-21.
 
 Book Chapters
 -------------------

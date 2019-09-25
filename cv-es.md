@@ -1,5 +1,6 @@
 ---
 output:
+  word_document: default
   pdf_document: default
   html_document:
     css: style.css
@@ -77,45 +78,50 @@ Situación Profesional Actual
 ----------------------------
 
 Puesto
-:   *Bioinformático*
+:   *Research Engineer*
 
 Organismo
-:   Universidad de Oviedo
+:   ArcelorMittal
 
 Fecha de incorporación
-:   2 de Abril de 2012
+:   15 de marzo de 2018
 
 Centro
-:   IUOPA
+:   Global R&D Avilés
 
 Unidad
-:   Laboratorio de Epigenética del Cáncer
+:   KiN - Business & Technoeconomics
 
-A lo largo de estos años he desarrollado mi actividad en varios frentes. Por un 
+Ciencia de Datos. Digitalización Comercial. Investigación, desarrollo e integración
+de sistemas de Aprendizaje Automático aplicados en distintas áreas de la empresa.
+Gestión de proyectos y control de calidad.
+
+Actividades Anteriores
+----------------------
+
+2012 - 2018
+: Universidad de Oviedo
+
+*Bioinformático*. A lo largo de esos años desarrollé mi actividad en varios frentes. Por un 
 lado, me he dedicado a implementar los <i>pipelines</i> de análisis de datos 
-para los proyectos de investigación del grupo. La mayoría de los análisis han
-sido sobre datos provenientes de microarrays de metilación de ADN, sobre todo 
+para los proyectos de investigación del grupo. La mayoría de los análisis fueron sobre datos provenientes de microarrays de metilación de ADN, sobre todo 
 los Illumina HumanMethylation 450k y EPIC, donde cada individuo genera del orden 
-de 450.000 y 850.000 mediciones respectivamente. También he trabajado en 
+de 450.000 y 850.000 mediciones respectivamente. También trabajé en 
 proyectos de ultra-secuenciación NGS, analizando datos provenientes de 
 experimentos ChIP-Seq, RRBS y WGBS, donde el tamaño de los conjuntos de datos 
 es muy grande y el diseño de la arquitectura de análisis cobra ya bastante 
 relevancia a la hora de optimizar el proceso.
 
-Casi todo el software que he desarrollado ha sido usando los lenguajes R y 
-Python. Además, durante estos años me he interesado especialmente en la 
-problemática de la reproducibilidad y replicabilidad de los análisis, y he 
-puesto en práctica soluciones de virtualización, contenedores, programación
+Casi todo el software que desarrollé fue usando los lenguajes R y 
+Python. Además, durante esos años me interesé especialmente en la 
+problemática de la reproducibilidad y replicabilidad de los análisis, y puse en práctica soluciones de virtualización, contenedores, programación
 literal e integración continua para la publicación de <i>workflows</i>
 reproducibles. 
 
-También he asesorado al resto del grupo en cuestiones estadísticas y 
-experimentales en la medida de lo posible. Me he encargado a su vez de la 
-compra y configuración de los distintos equipos de análisis de datos, y he sido
-responsable de la creación de la línea de bioinformática en nuestro grupo.
-
-Actividades Anteriores
-----------------------
+También asesoré al resto del grupo en cuestiones estadísticas y 
+experimentales en la medida de lo posible. Me encargué a su vez de la 
+compra y configuración de los distintos equipos de análisis de datos, y fui
+responsable de la creación de la línea de bioinformática en el grupo.
 
 2011 - 2012 
 : Arcelor Mittal
@@ -190,15 +196,13 @@ Tecnologías
 -----------
 
   * Lenguajes de programación
-    * R, R/Bioconductor, RStudio, R/Markdown, Shiny
-    * Python, NumPy, SciPy
+    * R (R/Bioconductor, RStudio, R/Markdown, Shiny)
+    * Python (NumPy, SciPy, Pandas, PySpark)
     * C++, Boost.
     * C#
     * SQL
-  * Desarrollo de workflows
-    * Snakemake
-    * Common Workflow Language
   * Machine Learning
+    * Scikit-learn
     * Caret
     * Spark MLlib
   * Computer Vision
@@ -238,8 +242,7 @@ PMCID: PMC4317171.
 Fernández AF, Fraga MF, Cardona-Gómez GP, Arboleda H, Arboleda GH. Liver X
 Receptor Agonist Modifies the DNA Methylation Profile of Synapse and
 Neurogenesis-Related Genes in the Triple Transgenic Mouse Model of Alzheimer's
-Disease. J Mol Neurosci. 2015 Nov 9. [Epub ahead of print] PubMed PMID:
-26553261.
+Disease. J Mol Neurosci. 2015 Nov 9.
 
 3.	Urdinguio RG, Bayón GF, Dmitrijeva M, Toraño EG, Bravo C, Fraga MF, Bassas L,
 Larriba S, Fernández AF. Aberrant DNA methylation patterns of spermatozoa in men
@@ -257,8 +260,7 @@ Fresno Forcelledo MF, Martínez-Camblor P, Mancikova V, Castelblanco E, Perez M,
 Marrón PI, Mendiola M, Hardisson D, Santisteban P, Riesco-Eizaguirre G,
 Matías-Guiu X, Carnero A, Robledo M, Delgado-Álvarez E, Menéndez-Torre E, Fraga
 MF. DNA methylation signatures identify biologically distinct thyroid cancer
-subtypes. J Clin Endocrinol Metab. 2013 Jul;98(7):2811-21. PubMed PMID:
-23666970.
+subtypes. J Clin Endocrinol Metab. 2013 Jul;98(7):2811-21.
 
 Capítulos de Libros
 -------------------
